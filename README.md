@@ -1,2 +1,4 @@
-# PythonProjects
-This repository contains various types of Python projects for various purposes
+# Rename Multiple Files
+z1.py is the file for renaming multiple files
+
+Place this z1.py file and all willing-to-rename files to the same folder, turn on command prompt and start z1.py
