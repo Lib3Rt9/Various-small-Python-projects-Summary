@@ -1,9 +1,9 @@
 # Keylogger
-This project is just for fun. It is really simple and be able to find everywhere on the internet.
+This project is just for fun and educational purposes only.
 
-EVERYTHING happens which is related with this project is not related with me.
+EVERYTHING happens which is related to this project is not related to me.
 
 See this repository to access this project:
 https://github.com/Lib3Rt9/Keylogger
 
-*NOTE: This project is a private project. Contact me for more information.
+*NOTE: This is a private project. Contact me for more information.
