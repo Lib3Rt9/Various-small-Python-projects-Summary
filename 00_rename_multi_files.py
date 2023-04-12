@@ -4,7 +4,7 @@ import glob
 from itertools import chain
 
 path = pathlib.Path(__file__).parent.resolve()
-files_to_ignore = ['z1_rename_multi_files.py', 'README.md']
+files_to_ignore = ['00_rename_multi_files.py', 'README.md']
 folder_to_ignore = ['.git']
 extension_to_ignore = ['.git']
 items_set = set(chain(files_to_ignore, folder_to_ignore, extension_to_ignore))
