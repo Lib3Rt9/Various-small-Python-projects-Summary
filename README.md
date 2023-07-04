@@ -6,5 +6,6 @@
 - *[Find Most Frequent Numbers](https://github.com/Lib3Rt9/PythonProjects/tree/most_freq_numbers)*
 - *[Rename Multiple Files](https://github.com/Lib3Rt9/PythonProjects/tree/rename_files)*
 - *[Simple Assistant](https://github.com/Lib3Rt9/SimpleAssistant)*
+- *[Number Generator](https://github.com/Lib3Rt9/Various-small-Python-projects-Summary/tree/number_generator)*
 
 **Have fun!**
